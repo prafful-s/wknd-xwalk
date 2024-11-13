@@ -359,5 +359,5 @@ main .section[data-section-status='initialized'] {
 }
 
 .container.red-color-text .default-content-wrapper h4, .container .default-content-wrapper h3, .container .default-content-wrapper h2 {
-  color: red;
+  color: red !important;
 }
