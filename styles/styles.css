@@ -355,5 +355,9 @@ main .section[data-section-status='initialized'] {
 }
 
 .pd10 {
-  padding: 10px;
+  padding: 10px !important;
+}
+
+.container.red-color-text .default-content-wrapper h4, .container .default-content-wrapper h3, .container .default-content-wrapper h2 {
+  color: red;
 }
